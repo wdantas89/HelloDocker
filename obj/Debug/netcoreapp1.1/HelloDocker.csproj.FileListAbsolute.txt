@@ -1,0 +1,11 @@
+C:\Users\FULLFace\HelloDocker\HelloDocker\HelloDocker\bin\Debug\netcoreapp1.1\HelloDocker.deps.json
+C:\Users\FULLFace\HelloDocker\HelloDocker\HelloDocker\bin\Debug\netcoreapp1.1\HelloDocker.runtimeconfig.json
+C:\Users\FULLFace\HelloDocker\HelloDocker\HelloDocker\bin\Debug\netcoreapp1.1\HelloDocker.runtimeconfig.dev.json
+C:\Users\FULLFace\HelloDocker\HelloDocker\HelloDocker\bin\Debug\netcoreapp1.1\HelloDocker.dll
+C:\Users\FULLFace\HelloDocker\HelloDocker\HelloDocker\bin\Debug\netcoreapp1.1\HelloDocker.pdb
+C:\Users\FULLFace\HelloDocker\HelloDocker\HelloDocker\obj\Debug\netcoreapp1.1\HelloDocker.AssemblyInfo.cs
+C:\Users\FULLFace\HelloDocker\HelloDocker\HelloDocker\obj\Debug\netcoreapp1.1\HelloDocker.dll
+C:\Users\FULLFace\HelloDocker\HelloDocker\HelloDocker\obj\Debug\netcoreapp1.1\HelloDocker.pdb
+C:\Users\FULLFace\HelloDocker\HelloDocker\HelloDocker\obj\Debug\netcoreapp1.1\HelloDocker.csprojResolveAssemblyReference.cache
+C:\Users\FULLFace\HelloDocker\HelloDocker\HelloDocker\obj\Debug\netcoreapp1.1\HelloDocker.Properties.Resources.resources
+C:\Users\FULLFace\HelloDocker\HelloDocker\HelloDocker\obj\Debug\netcoreapp1.1\HelloDocker.csproj.GenerateResource.Cache
