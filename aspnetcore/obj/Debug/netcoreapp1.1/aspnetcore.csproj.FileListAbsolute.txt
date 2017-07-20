@@ -1,0 +1,8 @@
+c:\DockerDotnetCoreApp\testedocker\aspnetcore\bin\Debug\netcoreapp1.1\aspnetcore.deps.json
+c:\DockerDotnetCoreApp\testedocker\aspnetcore\bin\Debug\netcoreapp1.1\aspnetcore.runtimeconfig.json
+c:\DockerDotnetCoreApp\testedocker\aspnetcore\bin\Debug\netcoreapp1.1\aspnetcore.runtimeconfig.dev.json
+c:\DockerDotnetCoreApp\testedocker\aspnetcore\bin\Debug\netcoreapp1.1\aspnetcore.dll
+c:\DockerDotnetCoreApp\testedocker\aspnetcore\bin\Debug\netcoreapp1.1\aspnetcore.pdb
+c:\DockerDotnetCoreApp\testedocker\aspnetcore\obj\Debug\netcoreapp1.1\aspnetcore.AssemblyInfo.cs
+c:\DockerDotnetCoreApp\testedocker\aspnetcore\obj\Debug\netcoreapp1.1\aspnetcore.dll
+c:\DockerDotnetCoreApp\testedocker\aspnetcore\obj\Debug\netcoreapp1.1\aspnetcore.pdb
